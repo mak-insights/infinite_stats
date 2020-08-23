@@ -31,9 +31,7 @@
 ➡️ [more blog posts...](https://medium.com/@rana.aurangzeb81)
 
 <!-- Connect with me -->
-- [LinkedIN](https://github.com/mak-insights/infinite_stats)
+- [LinkedIn](https://github.com/mak-insights/infinite_stats)
 
 </details>
-
-[Linkedin]: https://www.linkedin.com/in/aurangzeb-khan-10531446/
 
