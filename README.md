@@ -8,11 +8,11 @@
 - ⚡ Fun fact: I love to swim for hours and hours on week ends
 
 ### Connect with me:
-
+<br>
 [<img align="left" alt="Aurangzeb Khan | LinkedIn" width="22px" src="https://www.linkedin.com/in/aurangzeb-khan-10531446/" />][linkedin]
 
 <br />
-
+<br>
 ### Languages and Tools:
 
 #### SQL
@@ -23,8 +23,6 @@
 #### VS Code
 #### Jupyter
 #### Erwin
-
-<br />
 <br />
 
 ---
