@@ -7,12 +7,6 @@
 - 🥅 2020 Goals: Take my Predictive Analysis skills to next Level 
 - ⚡ Fun fact: I love to swim for hours and hours on week ends
 
-### Connect with me:
-<br>
-[<img align="left" alt="Aurangzeb Khan | LinkedIn" width="22px" src="https://www.linkedin.com/in/aurangzeb-khan-10531446/" />][linkedin]
-
-<br />
-<br>
 ### Languages and Tools:
 
 #### SQL
@@ -24,7 +18,7 @@
 #### Jupyter
 #### Erwin
 <br />
-
+<br />
 ---
 
 ### 📕 Latest Blog Posts
@@ -36,7 +30,8 @@
 
 ➡️ [more blog posts...](https://medium.com/@rana.aurangzeb81)
 
----
+<!-- Connect with me -->
+- [LinkedIN](https://github.com/mak-insights/infinite_stats)
 
 </details>
 
